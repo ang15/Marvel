@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 8e40c05e344ea4d488295c7eaef171ef
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ironman(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HD_Ironman:Plane03
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Plane02
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object12
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object11
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object10
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object09
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object08
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3966
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object07
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object06
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object05
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object04
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object03
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object02
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:Object01
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3864
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3848
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3666
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3060
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3950
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3875
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3874
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3891
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3094
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3090
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3892
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3893
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3079
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3876
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3877
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3878
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3880
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3882
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3570
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3883_group1
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3559
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3884
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3667
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3540
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3890
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3885
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2765
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3873
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3949
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3944
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3867
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3868
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3871
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3870
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3869
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3423
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3896_polySurface3916
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3581
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3582
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3583
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3963
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3584
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3964
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3955
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3571
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2851
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3908_polySurface3896
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3109
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3154
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3853
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3108
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3148
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3852
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3849
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3118
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2631_polySurface2611
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3956
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3954
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3587
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3588
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3586
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3585
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3573
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3578
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3957
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3959
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3958
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3960
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3579
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3962
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3961
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2631_polySurface2610
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3854
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3855
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2653
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2652
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2655
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2654
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2651
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2725
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3860
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3952
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3951
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2747
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3862
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3861
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3863
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3948
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3946
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3851
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3965
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface2642
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface2610_polySurface3572
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3872
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3865
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3850
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: 0.0009981465, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: HD_Ironman:polySurface3967
+      parentName: ironman(Clone)
+      position: {x: 0.0014858487, y: -2.6147013, z: 0.23890285}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 20.705635, y: 20.705635, z: 20.705635}
+    - name: Cylinder01
+      parentName: ironman(Clone)
+      position: {x: 0.002009263, y: 4.5668554, z: 0.59107894}
+      rotation: {x: 1.110223e-16, y: 0, z: -0, w: 1}
+      scale: {x: 1.0041025, y: 1.0041025, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
